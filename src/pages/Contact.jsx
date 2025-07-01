@@ -597,9 +597,9 @@ const Contact = () => {
                         Office Address
                       </h3>
                       <p className="text-gray-600">
-                        123 AI Valley, Tech District
+                        1725 Ocean Ave #315
                         <br />
-                        San Francisco, CA 94105
+                        Santa Monica, CA 90401
                         <br />
                         United States
                       </p>
@@ -614,7 +614,7 @@ const Contact = () => {
                       <h3 className="font-semibold text-gray-900 mb-1">
                         Phone
                       </h3>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
+                      <p className="text-gray-600">+1 (310) 902-9806</p>
                       <p className="text-sm text-gray-500">
                         Mon-Fri 9AM-6PM PST
                       </p>
