@@ -698,20 +698,20 @@ const Contact = () => {
                 Visit Our Office
               </h2>
               <p className="text-xl text-gray-600">
-                Located in the heart of San Francisco's tech district
+                Located in the heart of Santa Monica's business district
               </p>
             </div>
 
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.0197327113716!2d-122.39492668468208!3d37.78808797975647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085807cc8234b1b%3A0x8c8b8b8b8b8b8b8b!2sSan%20Francisco%2C%20CA%2094105%2C%20USA!5e0!3m2!1sen!2sus!4v1635959999999!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3301.045148137585!2d-118.49749912452646!3d34.01114761935378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2a4d65feaa1b3%3A0xf6b91ff4087f03cb!2s1725%20Ocean%20Ave%20%23315%2C%20Santa%20Monica%2C%20CA%2090401%2C%20USA!5e0!3m2!1sen!2sin!4v1719769243874!5m2!1sen!2sin"
                 width="100%"
                 height="400"
                 style={{ border: 0 }}
                 allowFullScreen=""
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="NeuronTechAi Office Location"
+                title="NeuronTechAi Office Location - Santa Monica"
               ></iframe>
             </div>
           </div>
